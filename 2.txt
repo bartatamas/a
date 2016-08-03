@@ -1,3 +1,2 @@
-second file
 second line
 third line
